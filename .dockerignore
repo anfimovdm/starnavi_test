@@ -1,0 +1,4 @@
+.git
+/bot_social_network
+.gitignore
+*.pyc
